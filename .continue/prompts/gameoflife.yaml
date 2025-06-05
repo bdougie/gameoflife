@@ -1,0 +1,7 @@
+name: Game of Life
+version: 0.0.1
+schema: v1
+prompts:
+  - name: New game
+    description: start
+    prompt: Using the spec.md generate me the game of life using TDD. Be sure to make it visually interesting, but simple and run at minmum 100 generations. The game board should only cells and no text. 
