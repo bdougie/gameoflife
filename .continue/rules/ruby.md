@@ -3,9 +3,6 @@ name: Clean Ruby
 description: Rules generated from clean ruby.
 ---
 - Write clean and readable ruby code.
-- Write test first using TDD, before implementing features.
-- Use Test Driven Development (TDD) techniques where possible.
-- Run coverage reports with `bundle exec rake coverage` after changes.
 - Follow the Single Responsibility Principle; each method should do one thing.
 - Keep methods under 20 lines and cyclomatic complexity under 7.
 - Use descriptive method names.
